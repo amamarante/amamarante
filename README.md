@@ -7,7 +7,7 @@
 
 - 📫 Contato **amamarante92@hotmail.com**
 
-- 📄 Minha experiêcia: Trabalho há mais de um ano no Serviço Federal de Processamento de Dados(SERPRO)
+- 📄 Minha experiêcia: Trabalhei durante dois anos no Serviço Federal de Processamento de Dados (Serpro). Atualmente desenvolvedor pleno na Apus Soluções de TI
 
 <h3 align="left">Linkedin:</h3>
 <p align="left">
