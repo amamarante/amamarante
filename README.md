@@ -1,9 +1,6 @@
 <h1 align="center">Olá 👋, eu sou André Marques Amarante</h1>
 <h3 align="center">Desenvolvedor WEB PHP, Javascript e Python</h3>
 
-
-
-
 **Conta anterior (amamarante92) encontra-se BLOQUEADA, esta é a nova**
 
 Empregado público do Serviço Federal de Processamento de Dados (SERPRO)
